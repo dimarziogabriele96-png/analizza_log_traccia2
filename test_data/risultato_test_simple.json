@@ -1,0 +1,68 @@
+{
+    "1": {
+        "eventi": [
+            "Visualizzato corso",
+            "Visualizzato report log",
+            "Visualizzato riepilogo del quiz",
+            "Visualizzato tentativo quiz"
+        ],
+        "conteggio_eventi": {
+            "Visualizzato report log": 1,
+            "Visualizzato corso": 1,
+            "Visualizzato riepilogo del quiz": 1,
+            "Visualizzato tentativo quiz": 1
+        }
+    },
+    "2": {
+        "eventi": [
+            "Visualizzato corso",
+            "Visualizzato modulo corso"
+        ],
+        "conteggio_eventi": {
+            "Visualizzato modulo corso": 1,
+            "Visualizzato corso": 1
+        }
+    },
+    "4": {
+        "eventi": [
+            "Disiscritto utente dal corso",
+            "Eliminata valutazione",
+            "Visualizzato corso"
+        ],
+        "conteggio_eventi": {
+            "Disiscritto utente dal corso": 1,
+            "Eliminata valutazione": 3,
+            "Visualizzato corso": 1
+        }
+    },
+    "5": {
+        "eventi": [
+            "Visualizzato corso",
+            "Visualizzato modulo corso"
+        ],
+        "conteggio_eventi": {
+            "Visualizzato corso": 1,
+            "Visualizzato modulo corso": 1
+        }
+    },
+    "3": {
+        "eventi": [
+            "Aggiornato completamento attivit\u00e0 del corso",
+            "Visualizzato corso",
+            "Visualizzato modulo corso"
+        ],
+        "conteggio_eventi": {
+            "Aggiornato completamento attivit\u00e0 del corso": 2,
+            "Visualizzato modulo corso": 1,
+            "Visualizzato corso": 2
+        }
+    },
+    "6": {
+        "eventi": [
+            "Eliminata valutazione"
+        ],
+        "conteggio_eventi": {
+            "Eliminata valutazione": 4
+        }
+    }
+}
